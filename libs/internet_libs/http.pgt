@@ -1,0 +1,19 @@
+import start
+
+function(HTTP) {
+    connect(HTTP) {
+        
+    }
+}
+
+Class HTTP {
+    give()::{
+        Method::(HTTP) {
+            
+        }
+
+    }
+    exit::();
+}
+
+import exit::end::();

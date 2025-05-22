@@ -1,0 +1,24 @@
+import start
+
+Class start {
+    give()::{
+        vg(main) {
+            print("Hello Lib.pgt");
+        }
+    }
+
+    exit::();
+}
+
+Class function {
+    give()::{
+        function(main) {
+            li:: [
+                "Hello Lib.pgt";
+            ]
+        }
+    }
+    exit::();
+}
+
+import exit::end::();

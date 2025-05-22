@@ -1,0 +1,23 @@
+#build <lid.pgt>
+#build <lid.pgt, function, start>
+
+import start
+
+Class main {
+	give()::{
+		function(main) {
+			vg(main) {
+				trs::(function);
+				print::("function");
+			}
+			vg(start) {
+				trs::(start);
+				print::("start");
+			}
+		}
+
+	}
+	exit::();
+}
+
+import exit::end::();
